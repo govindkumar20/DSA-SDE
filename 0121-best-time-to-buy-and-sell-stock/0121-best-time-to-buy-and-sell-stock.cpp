@@ -1,14 +1,13 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int minsofar=prices[0];
+        int n=prices.size();
         int maxprofit=0;
-
-        // store min stock value and  sell stock everyday to find max profit
-        for(int i=1;i<prices.size();i++)
+        int minSoFar=prices[0];
+        for(int i=0;i<n;i++)
         {
-            minsofar=min(minsofar,prices[i]);       
-            maxprofit=max(maxprofit,prices[i]-minsofar);
+           minSoFar=min(minSoFar,prices[i]);
+           maxprofit=max(maxprofit,prices[i]-minSoFar);
         }
         return maxprofit;
     }
