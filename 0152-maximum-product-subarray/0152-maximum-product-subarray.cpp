@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         int currprod=1;
         int maxprod=INT_MIN;
-        for(int i=0;i<n;i++)               //1st
+        for(int i=0;i<n;i++)
         {
             currprod*=nums[i];
             if(currprod>maxprod)
@@ -16,9 +16,8 @@ public:
                 currprod=1;
             }
         }
-
-           currprod=1;                      //2nd
-            for(int i=n-1;i>=0;i--)
+        currprod=1;
+         for(int i=n-1;i>=0;i--)
         {
             currprod*=nums[i];
             if(currprod>maxprod)
@@ -30,6 +29,6 @@ public:
                 currprod=1;
             }
         }
-       return maxprod;
+      return maxprod;
     }
 };
