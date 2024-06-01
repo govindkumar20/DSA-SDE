@@ -10,7 +10,7 @@ public:
             {
                 if(board[i][j]!='.')
                 {
-                    string temp="("+string(1,board[i][j])+")";
+                    string temp="("+to_string(board[i][j])+")";
                     if(!s.insert(temp+to_string(i)).second ||
                     !s.insert(to_string(j)+temp).second ||
                     !s.insert(to_string(i/3) + temp + to_string(j/3)).second ){
