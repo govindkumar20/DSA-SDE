@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0059-spiral-matrix-ii) |
 | [0137-single-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/govindkumar20/DSA-SDE/tree/master/0164-maximum-gap) |
 # Backtracking
 |  |
 | ------- |
@@ -33,3 +34,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
+# Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/govindkumar20/DSA-SDE/tree/master/0164-maximum-gap) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/govindkumar20/DSA-SDE/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/govindkumar20/DSA-SDE/tree/master/0164-maximum-gap) |
