@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0260-single-number-iii) |
+| [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
 # Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
 # Sliding Window
 |  |
 | ------- |
