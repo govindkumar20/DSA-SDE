@@ -1,20 +1,13 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int n=nums.size();
-       map<int,int> m;
+       int n=nums.size();
+       set<int> s;
        for(auto i:nums)
        {
-        m[i]++;
+        if(!s.insert(i).second) s.erase(i);
+        else s.insert(i);
        }
-       vector<int> ans;
-      for(auto i:m)
-      {
-        if(i.second==1)
-        {
-            ans.push_back(i.first);
-        }
-      }
-      return ans;
+       return vector<int> (s.begin(),s.end());
     }
 };
