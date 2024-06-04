@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 # Backtracking
 |  |
 | ------- |
@@ -26,10 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 # Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 # Bit Manipulation
 |  |
 | ------- |
