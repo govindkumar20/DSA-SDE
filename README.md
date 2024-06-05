@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/govindkumar20/DSA-SDE/tree/master/0413-arithmetic-slices) |
 # Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/govindkumar20/DSA-SDE/tree/master/0413-arithmetic-slices) |
 # Binary Search
 |  |
 | ------- |
