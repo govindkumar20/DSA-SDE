@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/govindkumar20/DSA-SDE/tree/master/0413-arithmetic-slices) |
+| [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 # Backtracking
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/govindkumar20/DSA-SDE/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 # Bucket Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 # Sliding Window
 |  |
 | ------- |
