@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0334-increasing-triplet-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/govindkumar20/DSA-SDE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 # Backtracking
 |  |
 | ------- |
@@ -91,3 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/govindkumar20/DSA-SDE/tree/master/0373-find-k-pairs-with-smallest-sums) |
