@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0334-increasing-triplet-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0334-increasing-triplet-subsequence) |
 # Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0334-increasing-triplet-subsequence) |
 # Dynamic Programming
 |  |
 | ------- |
