@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 # Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
+| [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 # Bucket Sort
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -151,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 # Divide and Conquer
 |  |
 | ------- |
