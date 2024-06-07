@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 # Backtracking
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 # Bucket Sort
 |  |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 # Sliding Window
 |  |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 # Divide and Conquer
 |  |
@@ -169,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 # Trie
 |  |
 | ------- |
