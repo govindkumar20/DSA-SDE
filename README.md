@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 # Backtracking
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 # Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 # Bucket Sort
 |  |
 | ------- |
@@ -147,10 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 # Merge Sort
 |  |
 | ------- |
@@ -178,3 +183,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
+# Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
