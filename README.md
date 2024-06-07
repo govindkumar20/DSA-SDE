@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/govindkumar20/DSA-SDE/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Simulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Math
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Bucket Sort
 |  |
 | ------- |
@@ -153,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,11 +176,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/govindkumar20/DSA-SDE/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 # Merge Sort
 |  |
 | ------- |
@@ -213,3 +220,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
