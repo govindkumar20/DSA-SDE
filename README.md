@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Bucket Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Greedy
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Sliding Window
 |  |
 | ------- |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
+| [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Geometry
 |  |
 | ------- |
