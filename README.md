@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
+| [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 # Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
+| [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 # Bucket Sort
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0376-wiggle-subsequence) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
+| [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
+| [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
 # Two Pointers
 |  |
 | ------- |
