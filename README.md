@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/govindkumar20/DSA-SDE/tree/master/1824-maximum-number-of-eaten-apples) |
 # Backtracking
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/govindkumar20/DSA-SDE/tree/master/1824-maximum-number-of-eaten-apples) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/govindkumar20/DSA-SDE/tree/master/1824-maximum-number-of-eaten-apples) |
 # Divide and Conquer
 |  |
 | ------- |
