@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 # Trie
