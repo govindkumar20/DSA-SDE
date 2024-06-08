@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
 | [1184-car-pooling](https://github.com/govindkumar20/DSA-SDE/tree/master/1184-car-pooling) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/govindkumar20/DSA-SDE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/govindkumar20/DSA-SDE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/govindkumar20/DSA-SDE/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
