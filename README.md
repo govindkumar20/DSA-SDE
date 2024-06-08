@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/govindkumar20/DSA-SDE/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/govindkumar20/DSA-SDE/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/govindkumar20/DSA-SDE/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
