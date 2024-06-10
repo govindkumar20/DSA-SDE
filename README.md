@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/govindkumar20/DSA-SDE/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0376-wiggle-subsequence) |
+| [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/govindkumar20/DSA-SDE/tree/master/1464-reduce-array-size-to-the-half) |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/govindkumar20/DSA-SDE/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
@@ -225,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 # Trie
