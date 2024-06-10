@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/govindkumar20/DSA-SDE/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 # Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 # Prefix Sum
 |  |
@@ -258,3 +262,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/govindkumar20/DSA-SDE/tree/master/0456-132-pattern) |
+# Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
+# Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
