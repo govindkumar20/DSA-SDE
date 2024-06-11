@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0047-permutations-ii) |
+| [0093-restore-ip-addresses](https://github.com/govindkumar20/DSA-SDE/tree/master/0093-restore-ip-addresses) |
 # Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/govindkumar20/DSA-SDE/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/govindkumar20/DSA-SDE/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/govindkumar20/DSA-SDE/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
