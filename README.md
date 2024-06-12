@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/govindkumar20/DSA-SDE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0633-sum-of-square-numbers) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/govindkumar20/DSA-SDE/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/govindkumar20/DSA-SDE/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/govindkumar20/DSA-SDE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/govindkumar20/DSA-SDE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
