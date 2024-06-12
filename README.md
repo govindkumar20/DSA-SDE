@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/govindkumar20/DSA-SDE/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/govindkumar20/DSA-SDE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/govindkumar20/DSA-SDE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -278,8 +282,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 # Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
