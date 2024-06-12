@@ -1,20 +1,32 @@
 class Solution {
 public:
     string originalDigits(string s) {
-        vector<string> words = {"zero", "two", "four", "six", "eight", "one", "three", "five", "seven", "nine"};
-        vector<int> nums = {0, 2, 4, 6, 8, 1, 3, 5, 7, 9};
-        vector<int> distinct_char = {'z', 'w', 'u', 'x', 'g', 'o', 'r', 'f', 'v', 'i'};
-        vector<int> counts(26, 0);
-        string result;
-        for(auto ch : s){ counts[ch-'a']++;}
-        for(int i = 0; i < 10; i++){
-            int count = counts[distinct_char[i]-'a'];
-            for(int j = 0; j < words[i].size(); j++)
-                counts[words[i][j]-'a'] -= count;
-            while(count--)
-                result += to_string(nums[i]);
+         vector<int> v(26, 0);
+        for (char c : s) v[c - 'a']++;
+
+       
+
+        string ans = "";
+        vector<int> result(10, 0);  // To store count of each digit found
+
+        // Check for unique characters in specific order
+        result[0] = v['z' - 'a'];
+        result[2] = v['w' - 'a'];
+        result[4] = v['u' - 'a'];
+        result[6] = v['x' - 'a'];
+        result[8] = v['g' - 'a'];
+
+        result[1] = v['o' - 'a'] - result[0] - result[2] - result[4];
+        result[3] = v['h' - 'a'] - result[8];
+        result[5] = v['f' - 'a'] - result[4];
+        result[7] = v['s' - 'a'] - result[6];
+        result[9] = v['i' - 'a'] - result[5] - result[6] - result[8];
+
+        // Construct the result string
+        for (int i = 0; i <= 9; i++) {
+            ans += string(result[i], '0' + i);
         }
-        sort(result.begin(), result.end());
-        return result;
+
+        return ans;
     }
 };
