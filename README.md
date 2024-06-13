@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/govindkumar20/DSA-SDE/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0474-ones-and-zeroes) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/govindkumar20/DSA-SDE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/govindkumar20/DSA-SDE/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/govindkumar20/DSA-SDE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/govindkumar20/DSA-SDE/tree/master/0621-task-scheduler) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/govindkumar20/DSA-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/govindkumar20/DSA-SDE/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0474-ones-and-zeroes) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/govindkumar20/DSA-SDE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0692-top-k-frequent-words](https://github.com/govindkumar20/DSA-SDE/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/govindkumar20/DSA-SDE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/govindkumar20/DSA-SDE/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0633-sum-of-square-numbers) |
