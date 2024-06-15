@@ -6,7 +6,7 @@ public:
         int n=nums.size();
         int sum=0;
         for(auto i:nums) sum+=i;
-        if(sum%2!=0) return false;
+        if(sum%2!=0) return false; // if sum is odd , no  one in this universe have balls to solve this ques
         int m=sum/2;
         vector<vector<bool>> dp(n+1,vector<bool>(m+1));
         for(int i=0;i<=n;i++) dp[i][0]=true;
