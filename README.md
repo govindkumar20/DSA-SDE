@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/govindkumar20/DSA-SDE/tree/master/0289-game-of-life) |
+| [0312-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/govindkumar20/DSA-SDE/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0334-increasing-triplet-subsequence) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/govindkumar20/DSA-SDE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0264-ugly-number-ii) |
+| [0312-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/govindkumar20/DSA-SDE/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/0377-combination-sum-iv) |
