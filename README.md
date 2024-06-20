@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/govindkumar20/DSA-SDE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/govindkumar20/DSA-SDE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0392-is-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/govindkumar20/DSA-SDE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/govindkumar20/DSA-SDE/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/govindkumar20/DSA-SDE/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/govindkumar20/DSA-SDE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0416-partition-equal-subset-sum) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/govindkumar20/DSA-SDE/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/govindkumar20/DSA-SDE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/0532-k-diff-pairs-in-an-array) |
