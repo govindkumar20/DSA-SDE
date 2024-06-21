@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/govindkumar20/DSA-SDE/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/govindkumar20/DSA-SDE/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0633-sum-of-square-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0633-sum-of-square-numbers) |
+| [0923-super-egg-drop](https://github.com/govindkumar20/DSA-SDE/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/govindkumar20/DSA-SDE/tree/master/1014-k-closest-points-to-origin) |
 # Stack
 |  |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0923-super-egg-drop](https://github.com/govindkumar20/DSA-SDE/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/govindkumar20/DSA-SDE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 # Binary Search
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/govindkumar20/DSA-SDE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/govindkumar20/DSA-SDE/tree/master/0852-friends-of-appropriate-ages) |
+| [0923-super-egg-drop](https://github.com/govindkumar20/DSA-SDE/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1397-search-suggestions-system) |
 # Sliding Window
