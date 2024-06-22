@@ -11,18 +11,20 @@
  */
 class Solution {
 public:
-    bool isBalanced(TreeNode* root) {
-        return height(root)!=-1;
-    }
+      int bfs(TreeNode* root, int & height){
+        if(root==NULL) return 0;
+        int left=bfs(root->left,height)+1;
+        int right=bfs(root->right,height)+1;
+        if(abs(left-right)>1) height=0;
+        return max(left,right);
+        
+      }
 
-int height(TreeNode* root)
-{
-    if(!root)
-    {
-        return 0;
+    bool isBalanced(TreeNode* root) {
+        if(root==NULL) return true;  // single node is always balanced
+        int height=1; 
+         bfs(root,height);   // the moment diff of left and right subtree heights exceeds 1 
+         if(height) return true;// height will change to 0
+         else return false;   // if height is zero return false else if there is some value of height return true
     }
-    int lh=height(root->left);
-    int rh=height(root->right);
-    return (lh==-1 || rh==-1 || abs(lh-rh)>1)?-1:max(lh,rh)+1;
-}
 };
