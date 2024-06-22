@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/govindkumar20/DSA-SDE/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/govindkumar20/DSA-SDE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/govindkumar20/DSA-SDE/tree/master/0316-remove-duplicate-letters) |
@@ -352,12 +353,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0144-binary-tree-preorder-traversal) |
