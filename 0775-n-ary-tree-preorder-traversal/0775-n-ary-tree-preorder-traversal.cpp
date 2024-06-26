@@ -24,7 +24,7 @@ public:
     vector<int> preorder(Node* root) {
         if(root==NULL) return ans;
         ans.push_back(root->val);
-        for(Node* child:root->children){
+        for(Node* child:root->children){ // loop on all childs of a root 
             preorder(child);
         }
         return ans;
