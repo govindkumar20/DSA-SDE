@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/govindkumar20/DSA-SDE/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/1254-deepest-leaves-sum) |
 # Tree
 |  |
 | ------- |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1254-deepest-leaves-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/1254-deepest-leaves-sum) |
 # Depth-First Search
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1254-deepest-leaves-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/1254-deepest-leaves-sum) |
 # Binary Tree
 |  |
 | ------- |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1254-deepest-leaves-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/1254-deepest-leaves-sum) |
 # Binary Search Tree
 |  |
 | ------- |
