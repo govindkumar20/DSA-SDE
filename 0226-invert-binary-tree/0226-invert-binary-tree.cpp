@@ -14,7 +14,7 @@ public:
     TreeNode* invertTree(TreeNode* root) {
        if(root==NULL) return root;
        TreeNode* node=new TreeNode(root->val);
-       node->right=invertTree(root->left);
+       node->right=invertTree(root->left);// or use swap func  swap(root->left,root->right)
        node->left=invertTree(root->right);
        return node;
 
