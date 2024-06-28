@@ -470,10 +470,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -483,8 +485,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
