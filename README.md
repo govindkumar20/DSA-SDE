@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -517,9 +518,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
