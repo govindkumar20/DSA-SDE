@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 ## Hash Table
@@ -580,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
