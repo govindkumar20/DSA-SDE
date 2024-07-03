@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/govindkumar20/DSA-SDE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
@@ -528,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
