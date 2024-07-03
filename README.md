@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -548,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
@@ -561,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
