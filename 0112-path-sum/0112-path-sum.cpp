@@ -5,7 +5,7 @@ public:
         bool flag=0;
         void dfs(TreeNode* root,int targetSum){
             if(root==NULL) return ;
-            int prev=sum;
+            int prev=sum; // to save initial sum for backtracking
             if(root->left || root->right){
                 sum+=root->val;
             } else{
@@ -14,7 +14,7 @@ public:
             }
             dfs(root->left,targetSum);
             dfs(root->right,targetSum);
-            sum=prev;
+            sum=prev; // for backtracking
         }
     bool hasPathSum(TreeNode* root, int targetSum) {
        dfs(root,targetSum);
