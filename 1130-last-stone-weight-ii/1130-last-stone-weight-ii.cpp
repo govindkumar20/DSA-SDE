@@ -1,6 +1,8 @@
 class Solution {
 public:
     int lastStoneWeightII(vector<int>& stones) {
+        //fuckin same as sumsets with minimum diff
+        //  x==y , x<y ,, x!=y ye sbb bss pagal bnane ke liye likha hai
         int sum=0;
         for(auto i:stones) sum+=i;
         int n=stones.size();
