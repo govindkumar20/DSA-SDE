@@ -584,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 ## Bitmask
 |  |
 | ------- |
