@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
+| [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0688-knight-probability-in-chessboard](https://github.com/govindkumar20/DSA-SDE/tree/master/0688-knight-probability-in-chessboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 | [0972-knight-dialer](https://github.com/govindkumar20/DSA-SDE/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/1130-last-stone-weight-ii) |
@@ -645,4 +647,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
