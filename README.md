@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0576-out-of-boundary-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0576-out-of-boundary-paths) |
 | [0688-knight-probability-in-chessboard](https://github.com/govindkumar20/DSA-SDE/tree/master/0688-knight-probability-in-chessboard) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 | [0972-knight-dialer](https://github.com/govindkumar20/DSA-SDE/tree/master/0972-knight-dialer) |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
