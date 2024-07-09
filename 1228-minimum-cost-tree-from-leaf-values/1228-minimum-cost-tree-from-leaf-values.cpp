@@ -1,25 +1,24 @@
 class Solution {
-public: 
-// definately not ans easy one
-     int solve(vector<int>& arr,vector<vector<int>>& dp, int i, int j){
-       
-        if(i==j) return 0;
-        priority_queue<int> q(arr.begin()+i,arr.begin()+j+1);
-        if(dp[i][j]!=-1) return dp[i][j];
-        int a=q.top();
-        q.pop();
-        int b=q.top();
-        q.pop();
-        int sum=INT_MAX;
-         int prod=a*b;
-        for(int p=i;p<j;p++){
-            sum=min(sum,solve(arr,dp,i,p)+solve(arr,dp,p+1,j));
+public:
+    int solve(vector<int>& arr, vector<vector<int>>& dp, int i, int j) {
+        if (i >= j) return 0;
+        if (dp[i][j] != -1) return dp[i][j];
+
+        long ans = INT_MAX;
+
+        for (int k = i; k < j; ++k) {
+            long s = solve(arr, dp, i, k) + solve(arr, dp, k + 1, j);
+            int a = *max_element(arr.begin() + i, arr.begin() + k + 1); 
+            int b = *max_element(arr.begin() + k + 1, arr.begin() + j + 1); 
+            ans = min(ans, s + a * b);
         }
-        return dp[i][j]=sum+prod;
-     }
+
+        return dp[i][j] = static_cast<int>(ans); 
+    }
+
     int mctFromLeafValues(vector<int>& arr) {
-        int n=arr.size();
-        vector<vector<int>> dp(n,vector<int> (n,-1));
-        return solve(arr,dp,0,n-1);
+        int n = arr.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        return solve(arr, dp, 0, n - 1);
     }
 };
