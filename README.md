@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0576-out-of-boundary-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0576-out-of-boundary-paths) |
@@ -668,4 +670,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
