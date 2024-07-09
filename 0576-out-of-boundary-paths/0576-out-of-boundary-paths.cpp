@@ -1,6 +1,6 @@
 class Solution {
 public:
-   // raat me jb 3am dimag kharab hota hai to refresh hone ke liye aise comments kr deta hoon, peace !!
+   // raat me jb 3am dimag kharab hota hai to refresh hone ke liye aise comments kr deta hoon, peas!! (in mr nags style)
     #define MOD 1000000007
     
     vector<int> xm = {-1, 0, 1, 0}; //  bro vectors me coordinates hai 4 directions ke
