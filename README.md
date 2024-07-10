@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
+| [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0576-out-of-boundary-paths) |
 | [0688-knight-probability-in-chessboard](https://github.com/govindkumar20/DSA-SDE/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
+| [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
@@ -664,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 ## Probability and Statistics
