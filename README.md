@@ -576,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1130-last-stone-weight-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/1130-last-stone-weight-ii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Bitmask
 |  |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Probability and Statistics
 |  |
 | ------- |
