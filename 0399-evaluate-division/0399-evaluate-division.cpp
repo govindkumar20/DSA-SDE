@@ -5,11 +5,13 @@ class Solution {
 public:
    double dfs(string up, string down, unordered_map<string,unordered_map<string,double>>& m, unordered_set<string>& visited) {
     if(m[up].find(down)!=m[up].end()) return m[up][down];
-    for(auto i:m[up]){
-        if(visited.find(i.first)==visited.end()){
+    for(auto i:m[up]){ // checking neighbours of up
+        if(visited.find(i.first)==visited.end()){ // marking neighbours as visited
             visited.insert(i.first);
-            double temp=dfs(i.first,down,m,visited);
+            double temp=dfs(i.first,down,m,visited);  // if there is a relation btw neighbour and down 
             if(temp) return i.second*temp;
+            //   a/b  *  b/c =  a/c
+            
         }
     }
     return 0;
