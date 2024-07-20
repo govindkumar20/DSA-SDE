@@ -569,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/govindkumar20/DSA-SDE/tree/master/0207-course-schedule) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
