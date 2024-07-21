@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/govindkumar20/DSA-SDE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/govindkumar20/DSA-SDE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/govindkumar20/DSA-SDE/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 ## Array
 |  |
@@ -666,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
@@ -722,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/govindkumar20/DSA-SDE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/govindkumar20/DSA-SDE/tree/master/0744-network-delay-time) |
@@ -737,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
@@ -766,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/govindkumar20/DSA-SDE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/govindkumar20/DSA-SDE/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
