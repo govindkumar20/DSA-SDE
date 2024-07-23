@@ -647,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/govindkumar20/DSA-SDE/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
@@ -818,4 +820,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/govindkumar20/DSA-SDE/tree/master/1300-critical-connections-in-a-network) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
