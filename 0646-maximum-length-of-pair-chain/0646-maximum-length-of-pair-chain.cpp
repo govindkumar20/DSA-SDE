@@ -1,25 +1,16 @@
 class Solution {
+ 
 public:
     int findLongestChain(vector<vector<int>>& pairs) {
-        int n = pairs.size();
-        if (n == 0) return 0;
-
-        // Sort pairs based on the second element
-        sort(pairs.begin(), pairs.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[1] < b[1];
-        });
-
-        // Use a greedy approach to find the longest chain
-        int currEnd = INT_MIN;
-        int chainLength = 0;
-
-        for (const auto& pair : pairs) {
-            if (pair[0] > currEnd) {
-                chainLength++;
-                currEnd = pair[1];
-            }
+       
+        sort(pairs.begin(),pairs.end()); // now left is not aur problem as it gets sorted
+        vector<int> lis;  // basic lis with slight modificationsf
+        for(int i=0;i<pairs.size();i++){
+            int ele=pairs[i][0];
+            auto ind=lower_bound(lis.begin(),lis.end(),ele);
+            if(ind==lis.end()) lis.push_back(pairs[i][1]);  // if theres no one greater than pair[0] insert pair[1] at last
+            else *ind=min(*ind,pairs[i][1]);  // if there is someone greater find the smallest one
         }
-
-        return chainLength;
+        return lis.size();
     }
 };
