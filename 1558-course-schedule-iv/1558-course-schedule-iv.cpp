@@ -1,7 +1,20 @@
+// basic topological sort
+
 class Solution {
 public:
+    // bool dfs(int a, int b,vector<vector<int>>& adj,int n,vector<int>& vis){  // if u can visit node node b from node a
+    //     vis[a]=1;
+    //     if(a==b) return true;
+    //     for(auto i:adj[a]){
+    //         if(!vis[i]){
+    //            if( dfs(i,b,adj,n,vis))  return true;
+    //         }
+    //     }
+    //     return false;
+    // }
 
-    bool canvisit(int node, int target, vector<int> adj[], int n){ // to find if we can visit the other node!
+
+     bool bfs(int node, int target, vector<vector<int>>& adj, int n){ 
 
         queue<int> q;
         vector<int> vis(n,0);
@@ -20,62 +33,50 @@ public:
                 }
             }
         }
-    return false; // if we cannot reach the other node
-    }
+    return false;
+     } 
 
-    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prereq, vector<vector<int>>& queries) {
-        //0 based indexing
-        //n =  no of courses from 0 to n-1
-
-        vector<bool>ans(queries.size(), false); // ans vector initialised with false *NOTE*
-        if(prereq.size()==0) return ans; // see testcase
-
-        // first lets find toposort using kahn's algo (bfs)
-
-        vector<int> adj[n];
-        vector<int> indegree(n,0); // indegree[i] = incoming edges to node i
-
-        for(auto it: prereq){
-            adj[it[0]].push_back(it[1]); //directed graph
-            indegree[it[1]]++;
+    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+        int m=queries.size();
+        vector<bool>ans(m,false);
+        if(prerequisites.size()==0) return ans;
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n,0);
+        for(auto i:prerequisites){
+            adj[i[0]].push_back(i[1]); // adjacency list
+            indegree[i[1]]++;          // indegree array
         }
 
-        queue<int>q;
-        for(int i=0; i<n; i++){
+        queue<int> q;
+        for(int i=0;i<n;i++){
             if(indegree[i]==0) q.push(i);
         }
 
         vector<int> topo;
-
         while(!q.empty()){
-            int node = q.front();
-            topo.push_back(node);
+            int node=q.front();
             q.pop();
-
-            for(auto it: adj[node]){
-                indegree[it]--;
-                if(indegree[it]==0) q.push(it);
+            topo.push_back(node);
+            for(auto i:adj[node]){
+                if(--indegree[i]==0) q.push(i);
             }
         }
-
-        //topo vector is ready!
-
-        for(int i=0; i<queries.size(); i++){
-            int n1 = queries[i][0];
-            int n2 = queries[i][1];
-
-            for(int j=0; j<topo.size(); j++){ //loking in the topo vector
-                if( topo[j]==n1 && canvisit(n1,n2,adj,n) ){ //=> if we see n1 first and canvisit n2 from n1
-                    ans[i]=true;
-                    break;
-                }
-                if(topo[j]==n2){
-                    break;
-                }
-            }
-        }
-
-        return ans;
         
+        
+       for(int i=0;i<queries.size();i++){
+        int a=queries[i][0];
+        int b=queries[i][1];
+        for(int j=0;j<topo.size();j++){
+            
+            if(topo[j]==a &&  bfs(a,b,adj,n)){
+                ans[i]=true;
+                break;
+            }
+            if(topo[j]==b){
+                break;
+            }
+        }
+    }
+    return ans;
     }
 };
