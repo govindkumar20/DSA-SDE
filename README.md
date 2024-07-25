@@ -797,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/govindkumar20/DSA-SDE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
