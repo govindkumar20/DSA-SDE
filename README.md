@@ -712,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/govindkumar20/DSA-SDE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/govindkumar20/DSA-SDE/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -897,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 ## Enumeration
 |  |
