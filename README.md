@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0118-pascals-triangle) |
@@ -892,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 ## Enumeration
 |  |
