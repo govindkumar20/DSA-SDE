@@ -880,4 +880,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/govindkumar20/DSA-SDE/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
