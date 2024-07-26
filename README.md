@@ -688,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 ## String
 |  |
 | ------- |
@@ -803,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/govindkumar20/DSA-SDE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 ## Matrix
 |  |
 | ------- |
@@ -851,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/govindkumar20/DSA-SDE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
+| [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 ## Shortest Path
 |  |
 | ------- |
