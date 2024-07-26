@@ -654,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
