@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/0133-clone-graph) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
