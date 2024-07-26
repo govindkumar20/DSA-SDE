@@ -652,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0072-edit-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0300-longest-increasing-subsequence) |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
