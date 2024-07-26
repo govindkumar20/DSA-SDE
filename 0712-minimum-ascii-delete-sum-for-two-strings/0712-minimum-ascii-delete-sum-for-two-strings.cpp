@@ -1,7 +1,8 @@
 class Solution {
 public:
     int minimumDeleteSum(string s1, string s2) {
-        int n=s1.size(); int m=s2.size();
+        int n=s1.size();
+        int m=s2.size();
         int sum1=0;
         int sum2=0;
         for(auto i:s1) sum1+=static_cast<int>(i);
@@ -13,6 +14,6 @@ public:
                 else dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
             }
         }
-        return sum1+sum2-(2*dp[n][m]);
+        return sum1-dp[n][m]+sum2-dp[n][m];
     }
 };
