@@ -651,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/govindkumar20/DSA-SDE/tree/master/0115-distinct-subsequences) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0118-pascals-triangle) |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/govindkumar20/DSA-SDE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Union Find
 |  |
