@@ -1,23 +1,22 @@
 class Solution {
 public:
-      int solve(vector<int> & a,vector<vector<int>> & dp, int i, int j){
+    int solve(vector<int>& arr, vector<vector<int>> & dp, int i, int j){
         if(i>j) return 0;
-        int ans=INT_MIN;
         if(dp[i][j]!=-1) return dp[i][j];
+        int ans=INT_MIN;
         for(int k=i;k<=j;k++){
-        int  temp_ans=(a[i-1]*a[k]*a[j+1])+solve(a,dp,i,k-1)+solve(a,dp,k+1,j);
-            ans=max(ans,temp_ans);
+            int temp=solve(arr,dp,i,k-1)+solve(arr,dp,k+1,j)+(arr[i-1]*arr[k]*arr[j+1]);
+            ans=max(ans,temp);
         }
         return dp[i][j]=ans;
-      }
+    }
 
     int maxCoins(vector<int>& nums) {
-        vector<int> v;
-        v.push_back(1);
-        for(auto i:nums) v.push_back(i);
-        v.push_back(1);
-        int n=v.size();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return solve(v,dp,1,n-2);
+        vector<int> arr;
+        arr.push_back(1);
+        for(auto i:nums) arr.push_back(i);
+        arr.push_back(1);
+        vector<vector<int>> dp(arr.size(),vector<int>(arr.size(),-1));
+        return solve(arr,dp,1,arr.size()-2);
     }
 };
