@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/govindkumar20/DSA-SDE/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/govindkumar20/DSA-SDE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0312-burst-balloons) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/govindkumar20/DSA-SDE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/govindkumar20/DSA-SDE/tree/master/0322-coin-change) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/govindkumar20/DSA-SDE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
