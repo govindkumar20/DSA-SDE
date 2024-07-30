@@ -24,8 +24,8 @@ public:
     }
 
     int maxProduct(TreeNode* root) {
-        int ans=0;
-        int sum=FindSum(root);
+        long long ans=0;
+        long long sum=FindSum(root);
         for(auto i:sums){
             ans=max(ans,i*(sum-i));
         }
