@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/govindkumar20/DSA-SDE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
+| [0967-minimum-falling-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/govindkumar20/DSA-SDE/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/govindkumar20/DSA-SDE/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
@@ -847,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
