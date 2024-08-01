@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/govindkumar20/DSA-SDE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0112-path-sum) |
