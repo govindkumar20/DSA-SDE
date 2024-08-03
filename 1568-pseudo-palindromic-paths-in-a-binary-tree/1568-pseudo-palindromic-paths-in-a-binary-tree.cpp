@@ -1,39 +1,26 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+
 class Solution {
 public:
-    void solve(TreeNode* root,vector<int> & ans,int & count){
+    int count=0;
+    void dfs(TreeNode* root,vector<int> temp){
         if(root==NULL) return;
-        ans[root->val]++; //inr the corresponding index value
-        solve(root->left,ans,count);
-        solve(root->right,ans,count);
-        
-        if(root->left==NULL && root->right==NULL) {  // when we reached leaf node ie one path is completed
+        if(root->left || root->right) {
+            temp[root->val]++;
+        } else{
+            temp[root->val]++;
             int flag=0;
-            for(int i=0;i<=9 ;i++){
-                if(ans[i]%2!=0)flag++; // if no of nodes with odd occurences greater than 1 then no permutation can form palindrome
+            for(int i=0;i<=9;i++){
+                if(temp[i]%2!=0) flag++;
             }
-                if(flag==0 || flag==1) count++; 
-        }  
-        ans[root->val]--;// as we backtrack dcr the incremented indices values for further cal of more paths
+            if(flag==0 || flag<=1) count++; 
+        }
+        dfs(root->left,temp);
+        dfs(root->right,temp);
     }
-
-
-
-
     int pseudoPalindromicPaths (TreeNode* root) {
-        int count=0;
-        vector<int> ans(10,0);  // vector containing indices of values from 1-9 
-        solve(root,ans,count);
+        vector<int> temp(10,0);
+        dfs(root,temp);
         return count;
+        
     }
 };
