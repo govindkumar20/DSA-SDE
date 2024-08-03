@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/govindkumar20/DSA-SDE/tree/master/1300-critical-connections-in-a-network) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -830,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -849,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/govindkumar20/DSA-SDE/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/govindkumar20/DSA-SDE/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/govindkumar20/DSA-SDE/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
