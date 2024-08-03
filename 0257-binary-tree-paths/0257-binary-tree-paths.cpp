@@ -1,28 +1,25 @@
 
 class Solution {
 public:
-    vector<string> v;
-    string s="";
-    void dfs(TreeNode* root){ 
-        if(root==NULL) return;
-        string prev=s;// save curr state of s for backtracking
+    void dfs(TreeNode* root,vector<string>& ans, string cur){
+        if(root==NULL) return ;
         if(root->left || root->right){
-            s+=to_string(root->val);
-            s+="->";
+            cur+=to_string(root->val)+"->";
+
         } else{
-            s+=to_string(root->val);
-            v.push_back(s);
-           
+            cur+=to_string(root->val);
+            ans.push_back(cur);
         }
-        dfs(root->left);
-        dfs(root->right);
-        s=prev;// backtracking (s to its prev state for new paths)
-  
-   
+        dfs(root->left,ans,cur);
+        dfs(root->right,ans,cur);
     }
 
+
+
     vector<string> binaryTreePaths(TreeNode* root) {
-      dfs(root);
-      return v;  
+        vector<string> ans;
+        string cur="";
+        dfs(root,ans, cur);
+        return ans;
     }
 };
