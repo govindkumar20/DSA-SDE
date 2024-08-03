@@ -1,33 +1,26 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+
 class Solution {
 public:
-    //int s=0;
+   
+    void dfs(TreeNode* root,int curr_sum,int& totalSum,string temp){
+        if(root==NULL) return;
+        if(root->left || root->right){
+             temp+=to_string(root->val);
+        }
+        else {
+            temp+=to_string(root->val);
+            totalSum+=stoi(temp);
+        }
+        dfs(root->left,curr_sum,totalSum,temp);
+        dfs(root->right,curr_sum,totalSum,temp);
+    }
 
-    void dfs(TreeNode* root,string& l,int &s){
-    if(root==NULL) return;
-    l+=to_string(root->val);
-    if(root->left==NULL && root->right==NULL){
-         s+=stoi(l);
-    }
-    dfs(root->left,l,s);
-    dfs(root->right,l,s);
-    l.erase(l.size()-1);// backtrack
-    }
 
     int sumNumbers(TreeNode* root) {
-        int s=0;
-        string l="";
-        dfs(root,l,s);
-        return s;
+        int totalSum=0;
+        int curr_sum=0;
+        string temp="";
+        dfs(root,curr_sum,totalSum,temp);
+        return totalSum;
     }
 };
