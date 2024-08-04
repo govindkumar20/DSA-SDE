@@ -11,26 +11,15 @@
  */
 class Solution {
 public:
+    // reverse post-order
+    TreeNode* prev=NULL;
     void flatten(TreeNode* root) {
-        if (root == nullptr) return;
-
-        flatten(root->left);
+        if(root==NULL) return;
         flatten(root->right);
-
-       
-        TreeNode* tempRight = root->right;
-
-       
-        root->right = root->left;
-        root->left = nullptr;
-
-     
-        TreeNode* current = root;
-        while (current->right != nullptr) {
-            current = current->right;
-        }
-
-        current->right = tempRight;
+        flatten(root->left);
+        root->right=prev;
+        root->left=NULL;
+        prev=root;
         
     }
 };
