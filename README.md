@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
@@ -614,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
