@@ -1,26 +1,21 @@
 
 class Solution {
 public:
+   void traverse(TreeNode* root, int level, int dist,map<int,vector<pair<int,int>>>& m){
+    if(root==NULL) return;
+    m[dist].push_back({level,root->val});
+    traverse(root->left,level+1,dist-1,m);
+    traverse(root->right,level+1,dist+1,m);
+   }
+   vector<vector<int>> ans;
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        //fucking good ques
-        map<int,vector<int>> m;// <x-index values,vertical vectors>
-        queue<pair<int,TreeNode*>> q; // for inorder traversal and put values acc to x-index
-        q.push({0,root});
-        while(!q.empty()){
-            int n=q.size();
-            multiset<pair<int,int>> s; // in order to handle more than 1 values at same pos
-            for(int i=0;i<n;i++){
-                auto node=q.front();   // other than these things very much similar to inorder traversal
-                q.pop();
-                s.insert({node.first,node.second->val});
-                if(node.second->left) q.push({node.first-1,node.second->left});
-                if(node.second->right) q.push({node.first+1,node.second->right});
-            }
-            for(auto i:s) m[i.first].push_back(i.second);
-        }
-        vector<vector<int>> ans;
-        for(auto i:m){
-            ans.push_back(i.second);
+        map<int,vector<pair<int,int>>> m;
+        traverse(root,0,0,m);
+        for(auto it:m){
+            sort(it.second.begin(),it.second.end());
+            vector<int> temp;
+            for(auto i:it.second) temp.push_back(i.second);
+            ans.push_back(temp);
         }
         return ans;
     }
