@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/govindkumar20/DSA-SDE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
@@ -639,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -670,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1087-longest-arithmetic-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -818,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/govindkumar20/DSA-SDE/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
