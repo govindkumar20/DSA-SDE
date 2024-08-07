@@ -1,36 +1,35 @@
 class Solution {
-private:
-    void dfs(int node, vector<int> adjls[], vector<int>& vis){ // simple dfs
+ public:
+     void dfs(vector<vector<int>>& matrix,vector<int>& vis,vector<vector<int>> adj,int node){
         vis[node]=1;
-        for(auto i:adjls[node]){
-            if(!vis[i]){
-                dfs(i,adjls,vis);
-            }
+        for(auto i:adj[node]){
+            if(!vis[i]) dfs(matrix,vis,adj,i);
         }
-    }
-public:
-    int findCircleNum(vector<vector<int>>& v) {
-         int n=v.size();
-        // make adj matrix to adj list 
-        vector<int> adjls[n];
+     }
+
+    int findCircleNum(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        int m=matrix[0].size();
+
+        vector<vector<int>> adj(n);
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(v[i][j]==1){
-                    adjls[i].push_back(j);
-                    adjls[j].push_back(i);
+            for(int j=0;j<m;j++){
+                if(matrix[i][j]==1){
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
-       
+
         int count=0;
-        vector<int> vis(n,0);  // visited list
+        vector<int> vis(n,0);
         for(int i=0;i<n;i++){
-            if(!vis[i])
-            {
+            if(!vis[i]) {
                 count++;
-                dfs(i,adjls,vis);
-            }
+                dfs(matrix,vis,adj,i);
+            } 
         }
+
         return count;
     }
 };
