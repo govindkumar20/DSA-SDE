@@ -986,4 +986,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/govindkumar20/DSA-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/govindkumar20/DSA-SDE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
