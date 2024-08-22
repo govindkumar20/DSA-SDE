@@ -2,16 +2,15 @@ class Solution {
 public:
    vector<int> xm={-1,0,1,0};
    vector<int> ym={0,1,0,-1};
-   void dfs(int i, int j, vector<vector<int>>& vis, vector<vector<char>>& board) {
-    int n = board.size();
-    int m = board[0].size();
-    if (i < 0 || i >= n || j < 0 || j >= m || board[i][j] != 'O' || vis[i][j] == 1) return;
-    vis[i][j] = 1;
-    for (int p = 0; p < 4; p++) {
-        dfs(i + xm[p], j + ym[p], vis, board);
+   void dfs(int i, int j, vector<vector<int>>& vis, vector<vector<char>>& board){
+    int n=board.size();
+    int m=board[0].size();
+    if(i<0 || i>n-1 || j<0 || j>m-1 || board[i][j]!='O' || vis[i][j]==1) return;
+    vis[i][j]=1;
+    for(int p=0;p<4;p++){
+    dfs(i+xm[p],j+ym[p],vis,board);
     }
-}
-
+   }
 
     void solve(vector<vector<char>>& board) {
         int n=board.size();
