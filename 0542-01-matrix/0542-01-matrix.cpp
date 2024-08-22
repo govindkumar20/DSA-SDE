@@ -1,41 +1,35 @@
 class Solution {
-public: 
-    vector<int> xm={-1,0,1,0}; // coordinates of 4 drn's
+public:
+    vector<int> xm={-1,0,1,0};
     vector<int> ym={0,1,0,-1};
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int n=mat.size();
         int m=mat[0].size();
-        vector<vector<int>> ans(n,vector<int>(m)); // ans matrix
-        vector<vector<int>> vis(n,vector<int>(m,0)); // visited matrix
-        queue<pair<pair<int,int>,int>> q;
-        for(int i=0;i<n;i++){  // insert all cells with 0 into q with steps as 0 and update visited mat
+        queue<pair<int,int>> q;
+        vector<vector<int>> ans(n,vector<int>(m,-1));
+         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
-                    q.push({{i,j},0});
-                    vis[i][j]=1;
-                } else {
-                    vis[i][j]=0;
+                    q.push({i,j});
+                    ans[i][j]=0;
+                } 
+            }
+         }
+
+         while(!q.empty()){
+            int r=q.front().first;
+            int c=q.front().second;
+            q.pop();
+            for(int p=0;p<4;p++){
+                int newr=r+xm[p];
+                int newc=c+ym[p];
+                if(newr>=0 && newr<=n-1 && newc>=0 && newc<=m-1 && ans[newr][newc]==-1){
+                    q.push({newr,newc});
+                    ans[newr][newc]=ans[r][c]+1;
                 }
             }
-        }
-
-        while(!q.empty()){ // BFS
-            int r=q.front().first.first;
-            int c=q.front().first.second;
-            int steps=q.front().second;
-            q.pop();
-            ans[r][c]=steps;  // updating ans
-
-            for(int i=0;i<4;i++){
-                int nr=r+xm[i];
-                int nc=c+ym[i];
-
-              if(nc>=0 && nr>=0 && nr<n && nc<m && vis[nr][nc]==0){ // operating within boundary conditions
-                vis[nr][nc]=1;
-                q.push({{nr,nc},steps+1});
-              } 
-            }
-        }
-        return ans;
+            
+         }
+         return ans;
     }
 };
