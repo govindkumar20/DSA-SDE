@@ -18,16 +18,16 @@ public:
 
         vector<vector<int>> vis(n,vector<int>(m,0));
         for(int j=0;j<m;j++) {
-            if(board[0][j]=='O') dfs(0,j,vis,board);
+            if(board[0][j]=='O' && vis[0][j]==0) dfs(0,j,vis,board);
         }
         for(int j=0;j<m;j++) {
-            if(board[n-1][j]=='O') dfs(n-1,j,vis,board);
+            if(board[n-1][j]=='O' && vis[n-1][j]==0) dfs(n-1,j,vis,board);
         }
         for(int i=1;i<n-1;i++){
-              if(board[i][0]=='O') dfs(i,0,vis,board);
+              if(board[i][0]=='O' && vis[i][0]==0) dfs(i,0,vis,board);
         }
         for(int i=1;i<n-1;i++) {
-            if(board[i][m-1]=='O')  dfs(i,m-1,vis,board);
+            if(board[i][m-1]=='O' && vis[i][m-1]==0)  dfs(i,m-1,vis,board);
         }
 
         for(int i=1;i<n-1;i++){
