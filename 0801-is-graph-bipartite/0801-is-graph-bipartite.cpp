@@ -1,39 +1,34 @@
 class Solution {
-public: 
-    bool bfs(vector<vector<int>>& graph, vector<int>& vis, int start) {
+public:
+    bool bfs(int node,vector<int>& vis,vector<vector<int>>& graph){
         queue<int> q;
-        q.push(start);
-        vis[start] = 0; // Start coloring with group 0
-        
-        while (!q.empty()) {
-            int node = q.front();
+        q.push(node);
+        vis[node]=0;
+        while(!q.empty()){
+            int val=q.front();
             q.pop();
-            
-            for (int neighbor : graph[node]) {
-                if (vis[neighbor] == -1) {
-                    vis[neighbor] = !vis[node]; // Assign opposite group color
-                    q.push(neighbor);
-                } else if (vis[neighbor] == vis[node]) {
-                    return false; // Conflict found (same group)
+            for(auto i:graph[val]){
+                if(vis[i]==-1){
+                    vis[i]=!vis[val];
+                    q.push(i);
+                } else if(vis[i]==vis[val]){
+                    return false;
                 }
             }
         }
-        
         return true;
     }
-    
+
+
     bool isBipartite(vector<vector<int>>& graph) {
-        int V = graph.size();
-        vector<int> vis(V, -1); // -1 means unvisited, 0 and 1 are two different groups
-        
-        for (int i = 0; i < V; ++i) {
-            if (vis[i] == -1) { // If not visited
-                if (!bfs(graph, vis, i)) {
-                    return false; // Graph is not bipartite
-                }
-            }
+        int n=graph.size();
+        vector<int> vis(n,-1);
+
+        for(int i=0;i<n;i++){
+           if(vis[i]==-1){
+            if(!bfs(i,vis,graph)) return false;
+           }
         }
-        
-        return true; // Graph is bipartite
+        return true;
     }
 };
