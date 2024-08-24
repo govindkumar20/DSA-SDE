@@ -20,7 +20,7 @@ public:
             if(grid[0][j]==1 && vis[0][j]==0) dfs(0,j,vis,grid);
             if(grid[n-1][j]==1 && vis[n-1][j]==0) dfs(n-1,j,vis,grid);
         }
-        for(int i=0;i<m;i++){
+        for(int i=0;i<n;i++){
             if(grid[i][0]==1 && vis[i][0]==0) dfs(i,0,vis,grid);
             if(grid[i][m-1]==1 && vis[i][m-1]==0) dfs(i,m-1,vis,grid);
         }
