@@ -2,7 +2,7 @@ class Solution {
 public:
      vector<int> xm={-1,0,1,0};
      vector<int> ym={0,1,0,-1};
-     void dfs(int i, int j, vector<vector<int>>& vis, vector<vector<int>> grid){
+     void dfs(int i, int j, vector<vector<int>>& vis, vector<vector<int>>& grid){
         int n=grid.size();
         int m=grid[0].size();
         if(i<0 || i>n-1 || j<0 || j>m-1 || vis[i][j] || grid[i][j]==0 ) return;
