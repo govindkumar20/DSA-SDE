@@ -18,7 +18,7 @@ public:
                 int edgW=i.second;
                 if(edgW+time<dist[adjNode]){
                     dist[adjNode]=edgW+time;
-                    q.push({time+1,adjNode});
+                    q.push({time+edgW,adjNode});
                 }
             }
         }
