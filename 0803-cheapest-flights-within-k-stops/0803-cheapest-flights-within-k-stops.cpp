@@ -7,7 +7,7 @@ public:
         }
         vector<int> dist(n,1e9);
         queue<pair<int,pair<int,int>>> q; // stops,{node,cost}
-        dist[0]=0;
+        dist[src]=0;
         q.push({0,{src,0}});
         while(!q.empty()){
             int node=q.front().second.first;
