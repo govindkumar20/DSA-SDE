@@ -1,50 +1,35 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<pair<int,int>>adj[n+1];
-        for(auto it:times)
-        {
-            adj[it[0]].push_back({it[1],it[2]});
-
+        vector<pair<int,int>> adj[n+1];
+        for(auto i:times){
+            adj[i[0]].push_back({i[1],i[2]});
         }
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>q;
-        vector<int>dis(n+1,INT_MAX);
-        dis[k]=0;
+        vector<int> dist(n+1,1e9);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> q; //{time,node}
+        dist[k]=0;
         q.push({0,k});
-        while(!q.empty())
-        {
+        while(!q.empty()){
             int node=q.top().second;
-            int dt=q.top().first;
+            int time=q.top().first;
             q.pop();
-            for(auto it:adj[node])
-            {
-                int dist=dt+it.second;
-                if(dis[it.first]>dist)
-                {
-                    dis[it.first]=dist;
-                    q.push({dist,it.first});
+            for(auto i:adj[node]){
+                int adjNode=i.first;
+                int edgW=i.second;
+                if(edgW+time<dist[adjNode]){
+                    dist[adjNode]=edgW+time;
+                    q.push({time+1,adjNode});
                 }
             }
         }
-        int ans=INT_MIN;
-      for(int i=1;i<=n;i++)
-      {
-         
-         
-           if(dis[k]==0 && dis[i]==INT_MAX)
-           {
-              
-              return -1;
-              
-           }
-           else
-           {
-                 ans=max(ans,dis[i]);
-           }
-         
-         
-      }
-    
-      return ans;
+        int minTime=0;
+        for(int i=1;i<=n;i++){
+            if(dist[i]==1e9) return -1;
+            minTime=max(minTime,dist[i]);
+
+        }
+        return minTime;
+
+
     }
 };
