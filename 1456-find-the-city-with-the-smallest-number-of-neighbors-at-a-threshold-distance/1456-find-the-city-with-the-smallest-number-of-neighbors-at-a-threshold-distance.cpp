@@ -1,48 +1,46 @@
 class Solution {
 public:
-    vector<pair<int,int>> adj[101];
-    vector<pair<int,int>> ans;
-        bool static cmp(const pair<int,int> p1 ,const pair<int,int> p2){  // comparator func for sorting
-        if(p1.first != p2.first)
-            return p1.first < p2.first;
-        
-        return p1.second > p2.second;
+   vector<pair<int,int>> temp;
+    bool static  cmp(const pair<int,int> a, const pair<int,int> b){
+        if(a.first!=b.first) return a.first<b.first;
+        return a.second>b.second;
     }
-    void dkstr(int src,int n,  vector<vector<int>>& edges,int threshold){
-        vector<int> dist(n,1e9);
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> q;
-        q.push({0,src});
-        dist[src]=0;
-        while(!q.empty()){
-            int d=q.top().first;
-            int node=q.top().second;
-            q.pop();
-            for(auto it:adj[node]){
-                int adjNode=it.first;
-                int edgW=it.second;
-                if(d+edgW<dist[adjNode]){
-                    dist[adjNode]=d+edgW;
-                    q.push({dist[adjNode],adjNode});
-                }
+
+   void dkstr(int n,int src,vector<pair<int,int>> adj[],vector<vector<int>>& edges, int distanceThreshold){
+    vector<int> dist(n,1e9);
+    priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> q; //weight,node
+    dist[src]=0;
+    q.push({0,src});
+    while(!q.empty()){
+        int node=q.top().second;
+        int weight=q.top().first;
+        q.pop();
+        for(auto i:adj[node]){
+            int adjNode=i.first;
+            int edgW=i.second;
+            if(weight+edgW<dist[adjNode]){
+                dist[adjNode]=weight+edgW;
+                q.push({weight+edgW,adjNode});
             }
         }
-        int count=0;
-        for(int i=0;i<n;i++){                      // cities that lies at dist less than threshold to source
-            if(i!=src && dist[i]<=threshold){
-                count++;
-            }
-        }
-        ans.push_back({count,src});
     }
+    int count=0;
+    for(int i=0;i<n;i++){
+    if(i!=src && dist[i]<=distanceThreshold) count++;
+    }
+    temp.push_back({count,src});
+   }
+
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        for(auto i:edges){    // adj list (bidirectional)
+        vector<pair<int,int>> adj[n];
+        for(auto i:edges){
             adj[i[0]].push_back({i[1],i[2]});
             adj[i[1]].push_back({i[0],i[2]});
         }
-        for(int i=0;i<n;i++){   // dijkastra for each node
-            dkstr(i,n,edges,distanceThreshold);
+        for(int i=0;i<n;i++){
+            dkstr(n,i,adj,edges,distanceThreshold);
         }
-      sort(ans.begin(),ans.end(),cmp);  //will give max neighbours city
-      return ans[0].second;
+        sort(temp.begin(),temp.end(),cmp);
+        return temp[0].second;
     }
 };
