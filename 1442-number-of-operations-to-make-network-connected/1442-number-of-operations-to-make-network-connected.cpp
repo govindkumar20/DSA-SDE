@@ -9,7 +9,7 @@ void dfs(int n, int node, vector<vector<int>>& adj,vector<vector<int>>& connecti
     }
 }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size()!=n-1) return -1;
+        if(connections.size()<n-1) return -1;
         vector<vector<int>> adj(n);
         for(auto i:connections){
             adj[i[0]].push_back(i[1]);
