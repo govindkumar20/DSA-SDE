@@ -21,6 +21,7 @@ public:
             curr_sum+=root->val;
             if(curr_sum==targetSum) {
                 flag=1;
+                return;
                 
             }
         }
