@@ -1,20 +1,20 @@
 
 class Solution {
 public:
-   void traverse(TreeNode* root, int level, int dist,map<int,vector<pair<int,int>>>& m){
-    if(root==NULL) return;
-    m[dist].push_back({level,root->val});
-    traverse(root->left,level+1,dist-1,m);
-    traverse(root->right,level+1,dist+1,m);
-   }
-   vector<vector<int>> ans;
+    vector<vector<int>> ans;
+    void traverse(TreeNode* root, int x, int y, map<int,vector<pair<int,int>>>& m){
+        if(root== NULL) return;
+        m[y].push_back({x,root->val});
+        traverse(root->left,x+1,y-1,m);
+        traverse(root->right,x+1,y+1,m);
+    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         map<int,vector<pair<int,int>>> m;
         traverse(root,0,0,m);
-        for(auto it:m){
-            sort(it.second.begin(),it.second.end());
+        for(auto i:m){
+            sort(i.second.begin(),i.second.end());
             vector<int> temp;
-            for(auto i:it.second) temp.push_back(i.second);
+            for(auto it:i.second) temp.push_back(it.second);
             ans.push_back(temp);
         }
         return ans;
