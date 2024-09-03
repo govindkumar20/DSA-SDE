@@ -7,12 +7,6 @@ public:
             indegree[i[1]]++;
             outdegree[i[0]]++;
         }
-
-      for(auto i:indegree) cout<<i<<" ";
-      cout<<endl;
-      for(auto i:outdegree) cout<<i<<" ";
-
-
         for(int i=1;i<=n;i++){
             if(indegree[i]==n-1 && outdegree[i]==0){
                 return i;
