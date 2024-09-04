@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
@@ -878,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/govindkumar20/DSA-SDE/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/govindkumar20/DSA-SDE/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/govindkumar20/DSA-SDE/tree/master/0803-cheapest-flights-within-k-stops) |
