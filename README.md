@@ -746,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
@@ -820,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bitmask
 |  |
@@ -903,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/govindkumar20/DSA-SDE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
