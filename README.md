@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/govindkumar20/DSA-SDE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/govindkumar20/DSA-SDE/tree/master/0813-all-paths-from-source-to-target) |
+| [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Hash Table
 |  |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/govindkumar20/DSA-SDE/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Memoization
 |  |
@@ -810,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/govindkumar20/DSA-SDE/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/govindkumar20/DSA-SDE/tree/master/1039-find-the-town-judge) |
@@ -928,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/govindkumar20/DSA-SDE/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
