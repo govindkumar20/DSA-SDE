@@ -9,6 +9,7 @@ public:
            adj[i[0]].push_back(i[1]);
            indegree[i[1]]++;
         }
+        for(auto i:indegree) cout<<i<<" ";
         queue<int> q;
         for(int i=0;i<n;i++){
             ans[i]=i;
