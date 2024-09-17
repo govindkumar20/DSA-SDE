@@ -698,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Math
 |  |
 | ------- |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Bitmask
 |  |
 | ------- |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -933,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 ## Matrix
 |  |
@@ -985,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/govindkumar20/DSA-SDE/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/govindkumar20/DSA-SDE/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
