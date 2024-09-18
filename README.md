@@ -834,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/govindkumar20/DSA-SDE/tree/master/1025-minimum-cost-for-tickets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/govindkumar20/DSA-SDE/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/govindkumar20/DSA-SDE/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
+| [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -907,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
+| [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -936,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/govindkumar20/DSA-SDE/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govindkumar20/DSA-SDE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/govindkumar20/DSA-SDE/tree/master/1039-find-the-town-judge) |
 | [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/govindkumar20/DSA-SDE/tree/master/1300-critical-connections-in-a-network) |
