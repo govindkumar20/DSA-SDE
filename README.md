@@ -719,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
+| [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1242-matrix-block-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/1242-matrix-block-sum) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1073-number-of-enclaves) |
+| [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1275-validate-binary-tree-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/govindkumar20/DSA-SDE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1086,4 +1089,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
+| [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
