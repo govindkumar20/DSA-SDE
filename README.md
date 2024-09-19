@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/govindkumar20/DSA-SDE/tree/master/0354-russian-doll-envelopes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/govindkumar20/DSA-SDE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
