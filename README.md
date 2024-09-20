@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
@@ -616,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/govindkumar20/DSA-SDE/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/govindkumar20/DSA-SDE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/govindkumar20/DSA-SDE/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/govindkumar20/DSA-SDE/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0685-redundant-connection-ii) |
