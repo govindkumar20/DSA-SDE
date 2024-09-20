@@ -10,24 +10,23 @@ public:
 
     bool backspaceCompare(string s, string t) {
         vector<char> temp1, temp2;
-        
-        // Process first string
+      
         for(int i = 0; i < s.size(); i++){
             if(s[i] != '#') 
                 temp1.push_back(s[i]);
-            else if(!temp1.empty())  // Check before popping
+            else if(!temp1.empty()) 
                 temp1.pop_back();
         }
 
-        // Process second string
+        
         for(int i = 0; i < t.size(); i++){
             if(t[i] != '#') 
                 temp2.push_back(t[i]);
-            else if(!temp2.empty())  // Check before popping
+            else if(!temp2.empty())  
                 temp2.pop_back();
         }
 
-        // Check size and contents
+       
         if(temp1.size() != temp2.size()) 
             return false;
 
