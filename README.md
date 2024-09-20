@@ -908,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
+| [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1032-satisfiability-of-equality-equations](https://github.com/govindkumar20/DSA-SDE/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
@@ -1016,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/govindkumar20/DSA-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
@@ -1075,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
+| [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 ## Enumeration
 |  |
@@ -1112,4 +1115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
