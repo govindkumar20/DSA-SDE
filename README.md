@@ -802,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
+| [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
@@ -1155,4 +1157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/govindkumar20/DSA-SDE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
