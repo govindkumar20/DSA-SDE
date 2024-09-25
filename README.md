@@ -700,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/govindkumar20/DSA-SDE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Backtracking
 |  |
 | ------- |
@@ -895,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1040,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/govindkumar20/DSA-SDE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 ## Probability and Statistics
 |  |
