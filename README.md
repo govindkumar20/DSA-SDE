@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -902,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/govindkumar20/DSA-SDE/tree/master/2636-maximum-subsequence-score) |
 ## Bitmask
@@ -924,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/govindkumar20/DSA-SDE/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -1123,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Enumeration
 |  |
 | ------- |
