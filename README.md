@@ -830,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/govindkumar20/DSA-SDE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/1022-unique-paths-iii) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/govindkumar20/DSA-SDE/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Memoization
 |  |
