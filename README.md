@@ -813,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/govindkumar20/DSA-SDE/tree/master/0397-integer-replacement) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
@@ -860,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/govindkumar20/DSA-SDE/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/govindkumar20/DSA-SDE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
@@ -919,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/govindkumar20/DSA-SDE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/govindkumar20/DSA-SDE/tree/master/0368-largest-divisible-subset) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
