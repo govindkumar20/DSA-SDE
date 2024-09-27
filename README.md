@@ -871,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/govindkumar20/DSA-SDE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/govindkumar20/DSA-SDE/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/govindkumar20/DSA-SDE/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
@@ -1064,12 +1065,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/govindkumar20/DSA-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Game Theory
 |  |
