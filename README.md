@@ -755,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-soup-servings](https://github.com/govindkumar20/DSA-SDE/tree/master/0826-soup-servings) |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
+| [1585-the-kth-factor-of-n](https://github.com/govindkumar20/DSA-SDE/tree/master/1585-the-kth-factor-of-n) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -1172,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/govindkumar20/DSA-SDE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/govindkumar20/DSA-SDE/tree/master/1223-graph-connectivity-with-threshold) |
+| [1585-the-kth-factor-of-n](https://github.com/govindkumar20/DSA-SDE/tree/master/1585-the-kth-factor-of-n) |
 ## Simulation
 |  |
 | ------- |
