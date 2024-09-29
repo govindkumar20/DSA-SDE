@@ -810,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -823,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2487-optimal-partition-of-string) |
@@ -908,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/govindkumar20/DSA-SDE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
