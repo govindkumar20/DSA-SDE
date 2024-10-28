@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -954,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/govindkumar20/DSA-SDE/tree/master/2636-maximum-subsequence-score) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
