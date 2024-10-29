@@ -930,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/govindkumar20/DSA-SDE/tree/master/2636-maximum-subsequence-score) |
@@ -1094,12 +1095,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Game Theory
 |  |
 | ------- |
@@ -1177,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/govindkumar20/DSA-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/govindkumar20/DSA-SDE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Database
 |  |
 | ------- |
