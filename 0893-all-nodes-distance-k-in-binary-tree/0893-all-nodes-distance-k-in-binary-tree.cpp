@@ -5,14 +5,16 @@ vector<int> ans;
     //making graph
     void makeGraph(TreeNode* root,vector<vector<int>>& graph){
         if(root->left){
-            makeGraph(root->left,graph);
+            
             graph[root->val].push_back(root->left->val);
             graph[root->left->val].push_back(root->val);
+            makeGraph(root->left,graph);
         }
         if(root->right){
-            makeGraph(root->right,graph);
+           
             graph[root->val].push_back(root->right->val);
-            graph[root->right->val].push_back(root->val);
+            graph[root->right->val].push_back(root->val); 
+            makeGraph(root->right,graph);
         }
     }
 
