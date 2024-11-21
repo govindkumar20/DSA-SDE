@@ -1220,11 +1220,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1708-design-parking-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1708-design-parking-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -1239,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/govindkumar20/DSA-SDE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1708-design-parking-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1708-design-parking-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/govindkumar20/DSA-SDE/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
