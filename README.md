@@ -842,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/govindkumar20/DSA-SDE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2089-maximum-matrix-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2487-optimal-partition-of-string) |
@@ -935,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/govindkumar20/DSA-SDE/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2089-maximum-matrix-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2089-maximum-matrix-sum) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1096,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 ## Probability and Statistics
 |  |
