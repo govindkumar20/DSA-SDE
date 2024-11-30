@@ -717,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Backtracking
@@ -943,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1074,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 | [3189-find-champion-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1103,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/govindkumar20/DSA-SDE/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/govindkumar20/DSA-SDE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/2428-equal-row-and-column-pairs) |
 ## Probability and Statistics
 |  |
@@ -1148,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/govindkumar20/DSA-SDE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/govindkumar20/DSA-SDE/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/govindkumar20/DSA-SDE/tree/master/2636-maximum-subsequence-score) |
@@ -1160,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/govindkumar20/DSA-SDE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govindkumar20/DSA-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/govindkumar20/DSA-SDE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Eulerian Circuit
 |  |
 | ------- |
