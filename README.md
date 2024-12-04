@@ -738,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/govindkumar20/DSA-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/govindkumar20/DSA-SDE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/0133-clone-graph) |
+| [0500-keyboard-row](https://github.com/govindkumar20/DSA-SDE/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/govindkumar20/DSA-SDE/tree/master/0740-delete-and-earn) |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/govindkumar20/DSA-SDE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/govindkumar20/DSA-SDE/tree/master/0473-matchsticks-to-square) |
+| [0500-keyboard-row](https://github.com/govindkumar20/DSA-SDE/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/govindkumar20/DSA-SDE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -990,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
+| [0500-keyboard-row](https://github.com/govindkumar20/DSA-SDE/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
