@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/govindkumar20/DSA-SDE/tree/master/0975-range-sum-of-bst) |
 | [1087-longest-arithmetic-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/govindkumar20/DSA-SDE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govindkumar20/DSA-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -934,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/govindkumar20/DSA-SDE/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/govindkumar20/DSA-SDE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/govindkumar20/DSA-SDE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -974,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/govindkumar20/DSA-SDE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1199,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Enumeration
