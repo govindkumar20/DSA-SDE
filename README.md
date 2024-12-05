@@ -1006,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/govindkumar20/DSA-SDE/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/govindkumar20/DSA-SDE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/govindkumar20/DSA-SDE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1204,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/govindkumar20/DSA-SDE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Enumeration
@@ -1285,4 +1287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/govindkumar20/DSA-SDE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/govindkumar20/DSA-SDE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
