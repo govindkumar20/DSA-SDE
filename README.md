@@ -1013,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govindkumar20/DSA-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2487-optimal-partition-of-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/govindkumar20/DSA-SDE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -1212,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/govindkumar20/DSA-SDE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/govindkumar20/DSA-SDE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Enumeration
 |  |
