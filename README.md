@@ -950,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/govindkumar20/DSA-SDE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/govindkumar20/DSA-SDE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindkumar20/DSA-SDE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/govindkumar20/DSA-SDE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/govindkumar20/DSA-SDE/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/govindkumar20/DSA-SDE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1160,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindkumar20/DSA-SDE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -1167,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindkumar20/DSA-SDE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Game Theory
 |  |
