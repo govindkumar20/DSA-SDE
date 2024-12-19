@@ -612,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/govindkumar20/DSA-SDE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/govindkumar20/DSA-SDE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2487-optimal-partition-of-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/govindkumar20/DSA-SDE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/govindkumar20/DSA-SDE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/govindkumar20/DSA-SDE/tree/master/2487-optimal-partition-of-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/govindkumar20/DSA-SDE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/govindkumar20/DSA-SDE/tree/master/3451-string-compression-iii) |
@@ -1280,11 +1283,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/govindkumar20/DSA-SDE/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/govindkumar20/DSA-SDE/tree/master/1777-determine-if-two-strings-are-close) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/govindkumar20/DSA-SDE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindkumar20/DSA-SDE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/govindkumar20/DSA-SDE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
 | ------- |
