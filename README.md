@@ -855,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/govindkumar20/DSA-SDE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/govindkumar20/DSA-SDE/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/govindkumar20/DSA-SDE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -922,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/govindkumar20/DSA-SDE/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/govindkumar20/DSA-SDE/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/govindkumar20/DSA-SDE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/govindkumar20/DSA-SDE/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/govindkumar20/DSA-SDE/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/govindkumar20/DSA-SDE/tree/master/0881-loud-and-rich) |
@@ -994,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/govindkumar20/DSA-SDE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
+| [0780-max-chunks-to-make-sorted](https://github.com/govindkumar20/DSA-SDE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/govindkumar20/DSA-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/govindkumar20/DSA-SDE/tree/master/1308-smallest-string-with-swaps) |
@@ -1159,6 +1162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/govindkumar20/DSA-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/govindkumar20/DSA-SDE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindkumar20/DSA-SDE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1168,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/govindkumar20/DSA-SDE/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/govindkumar20/DSA-SDE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/govindkumar20/DSA-SDE/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindkumar20/DSA-SDE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/govindkumar20/DSA-SDE/tree/master/2374-steps-to-make-array-non-decreasing) |
