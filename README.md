@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/govindkumar20/DSA-SDE/tree/master/0133-clone-graph) |
 | [0500-keyboard-row](https://github.com/govindkumar20/DSA-SDE/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/govindkumar20/DSA-SDE/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/govindkumar20/DSA-SDE/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
@@ -1035,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/govindkumar20/DSA-SDE/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/govindkumar20/DSA-SDE/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/govindkumar20/DSA-SDE/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/govindkumar20/DSA-SDE/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/govindkumar20/DSA-SDE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/govindkumar20/DSA-SDE/tree/master/0721-accounts-merge) |
@@ -1254,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/govindkumar20/DSA-SDE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/govindkumar20/DSA-SDE/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/govindkumar20/DSA-SDE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/govindkumar20/DSA-SDE/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/govindkumar20/DSA-SDE/tree/master/1129-longest-string-chain) |
@@ -1327,6 +1330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/govindkumar20/DSA-SDE/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/govindkumar20/DSA-SDE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/govindkumar20/DSA-SDE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
